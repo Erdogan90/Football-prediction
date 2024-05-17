@@ -19,7 +19,7 @@
 # misc
 .DS_Store
 *.pem
-READMENEXT
+READMENEXT.md
 
 # debug
 npm-debug.log*
